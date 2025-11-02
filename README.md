@@ -8,8 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/TON-UTILISATEUR/KB-Ticket?style=for-the-badge&color=yellow">
-  <img src="https://img.shields.io/github/last-commit/TON-UTILISATEUR/KB-Ticket?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/stars/kazeprojects/KB-Ticket?style=for-the-badge&color=yellow">
+  <img src="https://img.shields.io/github/last-commit/kazeprojects/KB-Ticket?style=for-the-badge&color=orange">
 </p>
 
 ---
