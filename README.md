@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kazeprojects/KB-Ticket/main/banner.png" alt="KB Ticket Banner" width="100%">
+  <img src=["https://raw.githubusercontent.com/kazeprojects/KB-Ticket/main/banner.png"](https://cdn.discordapp.com/attachments/1434583869130014823/1434619729695342612/ChatGPT_Image_2_nov._2025_19_14_06.png?ex=6908fd3d&is=6907abbd&hm=04a7643cd856300b5f5a32a334753427b66e287c3e71e0448cf4c3765b626322&) alt="KB Ticket Banner" width="100%">
 </p>
 
 <h1 align="center">🎫 KB Ticket</h1>
