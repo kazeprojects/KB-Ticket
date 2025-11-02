@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON-UTILISATEUR/KB-Ticket/main/banner.png" alt="KB Ticket Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/kazeprojects/KB-Ticket/main/banner.png" alt="KB Ticket Banner" width="100%">
 </p>
 
 <h1 align="center">🎫 KB Ticket</h1>
